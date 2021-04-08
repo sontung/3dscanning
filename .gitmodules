@@ -1,0 +1,9 @@
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/facebookresearch/detectron2.git
+[submodule "correspondence-discrete-optim"]
+	path = correspondence-discrete-optim
+	url = https://github.com/sontung/correspondence-discrete-optim.git
+[submodule "3Dreconstruction"]
+	path = 3Dreconstruction
+	url = https://github.com/alyssaq/3Dreconstruction.git
